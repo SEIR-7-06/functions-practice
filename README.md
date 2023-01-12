@@ -125,6 +125,11 @@ console.log(transmogrify(5, 3, 2));
 
 * Write a function that takes a parameter, a number. The function should print the Fibonacci sequence up to that number.
 
+example
+```
+10 => [0, 1, 1, 2, 3, 5, 8]
+```
+
 * Adjust the function to push the **even numbered** values into an array.
 
 * Adjust the function to return the summed value of the array.
